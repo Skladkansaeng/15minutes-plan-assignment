@@ -1,5 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+## Prepare Running Add .env or .env.local
+
+Follow :
+
+```bash
+MONGODB_URI=
+TOKEN_SECRET=
+CHAT_GPT_KEY=
+```
+
+
 ## Getting Started
 
 First, run the development server:
